@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://potatosint.github.io/potatosint.github.io/sitemap.xml

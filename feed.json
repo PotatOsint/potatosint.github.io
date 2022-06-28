@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PotatOsint",
+    "description": "",
+    "home_page_url": "https://potatosint.github.io/potatosint.github.io",
+    "feed_url": "https://potatosint.github.io/potatosint.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Potato"
+    },
+    "items": [
+    ]
+}
